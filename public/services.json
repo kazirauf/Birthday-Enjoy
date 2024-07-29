@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.verywellfamily.com/thmb/N8XF7oYccXKcwSbH8i2ESrDy0rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/twin-boy-birthday-56a689f95f9b58b7d0e37046.jpg",
+      "name": "Twin brothers or sisters have birthdays on the same day",
+      "price": 500,
+      "description": "Twin brothers or sisters celebrating their birthdays on the same day create a unique and special bond that extends beyond their shared birthdate. It's a day filled with double the joy, love, and unforgettable memories, as they embark on a lifelong journey of celebrating together."
+    },
+    {
+      "id": 2,
+      "image": "https://www.honeypeachsg.com/cdn/shop/articles/Senior_Citizen_Birthday_Party_Ideas_905x.jpg?v=1664659024image_url_2.jpg",
+      "name": "Birthday parties for older people",
+      "price": 300,
+      "description": "Birthday parties for older individuals are a time to honor and celebrate a lifetime of experiences, wisdom, and cherished memories. These gatherings provide an opportunity for family and friends to come together, share stories, and create new moments of joy, reaffirming the value and significance of every stage of life."
+    },
+    {
+      "id": 3,
+      "image": "https://www.happiestbaby.com/cdn/shop/articles/first-birthday-party-themes_1300x@2x.jpg?v=1679091210",
+      "name": "Birthday parties when someone turns 1 year old",
+      "price": 400,
+      "description": "First birthday parties are a heartwarming celebration of a child's journey from infancy to toddlerhood. It's a special occasion filled with smiles and laughter, marking the beginning of a lifetime of milestones. Friends and family gather to share in the joy of a child's first year, creating treasured memories that will be cherished for years to come."
+    },
+    {
+      "id": 4,
+      "image": "https://www.cheryls.com/blog/wp-content/uploads/2022/02/birthday_party_for_seniors_1-1.jpg",
+      "name": "Mother's birthday parties",
+      "price": 500,
+      "description": "First birthday parties are a delightful celebration, as a child reaches a significant milestone in their life. These gatherings are a testament to the joy and growth experienced during the first year, surrounded by loved ones who look forward to witnessing the many adventures that lie ahead."
+    },
+    {
+      "id": 5,
+      "image": "https://the-digital-reader.com/wp-content/uploads/2023/05/happy-birthday-dad.jpg",
+      "name": "Father's birthday parties",
+      "price": 500,
+      "description": "Father's birthday parties are a heartfelt tribute to the man who has provided love, guidance, and support throughout the years. These celebrations are an opportunity for family and friends to come together, express gratitude, and create cherished memories with the man of the hour, making him feel truly special on his day."
+    },
+    {
+      "id": 6,
+      "image": "https://chandigarhmetro.com/wp-content/uploads/2021/09/birthday-quotes-for-husband-1584460768.jpg",
+      "name": "At the pro-marriage wife's first birthday party",
+      "price": 400,
+      "description": "At the pro-marriage wife's first birthday party, it's a meaningful celebration that signifies not only the passage of time but also the start of a new chapter in the life of a committed couple. Surrounded by loved ones, this occasion serves as a reminder of the enduring love and partnership that continue to grow stronger with each passing year."
+    }
+  ]
+  
